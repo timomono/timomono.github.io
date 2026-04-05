@@ -1,3 +1,4 @@
-- [Speeder](/speeder)
-- [Oajimi](https://oajimi.eco/)
-- [Omusubi](https://omusubi.eco/)
+- [Oajimi](https://oajimi.eco/) - Oajimi project
+- [Omusubi](https://omusubi.eco/) - Omusubi project
+- [Speeder](/speeder) - A keyboard typing game.
+- [S-Gen](https://pypi.org/project/sgen-tool) - A simple python-based static site generator.
