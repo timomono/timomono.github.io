@@ -1,0 +1,25 @@
+title: Timomono
+author: timomono
+
+baseurl: ""
+url: "https://timomono.github.io"
+
+remote_theme: pages-themes/tactile@v0.2.0
+
+navbar-links:
+  Home: /
+
+social-network-links:
+  github: timomono
+
+# Avatar
+avatar: "/profile.png"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-sitemap
+  - jekyll-remote-theme
